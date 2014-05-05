@@ -1,7 +1,7 @@
 DarkSeg
 =======
 
-DarkSeg is a Chinese segmentor, which based on HMM and enhanced with a rule system.
+DarkSeg is a Chinese segmentor, which based on [HMM](http://en.wikipedia.org/wiki/Hidden_Markov_model) and enhanced with a rule system.
 
 ### Installation
 
